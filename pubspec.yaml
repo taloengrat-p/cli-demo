@@ -1,14 +1,15 @@
 name: cli_demo
 description: A sample command-line application.
 version: 1.0.0
-# repository: https://github.com/my_org/my_repo
+homepage: https://taloengrat-p.github.io/cli-demo
+repository: https://github.com/taloengrat-p/cli-demo
 
 environment:
   sdk: ^3.2.3
 
 # Add regular dependencies here.
 dependencies:
-  # path: ^1.8.0
+  path: ^1.8.0
 
 dev_dependencies:
   lints: ^2.1.0
